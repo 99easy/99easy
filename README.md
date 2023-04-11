@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">🌱 Let's Study Rang 🌱</h1>
+<h1 align="center">🌱 Let's Study 🌱</h1>
 
 <br>
 
